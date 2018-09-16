@@ -2689,6 +2689,7 @@ Most of these are paid services, some have free tiers.
 
 #### Header
 
+* [MGCollapsingHeader](https://github.com/mattga/MGCollapsingHeader) - Easy implementation of Parallax scrolling effect on UITableView header, with views collapsing when user scrolls
 * [ParallaxTableViewHeader](https://github.com/Vinodh-G/ParallaxTableViewHeader) - Parallax scrolling effect on UITableView header view when a tableView is scrolled.
 * [CSStickyHeaderFlowLayout](https://github.com/CSStickyHeaderFlowLayout/CSStickyHeaderFlowLayout) - UICollectionView replacement of UITableView. Do even more like Parallax Header, Sticky Section Header.
 * [GSKStretchyHeaderView](https://github.com/gskbyte/GSKStretchyHeaderView) - Configurable yet easy to use stretchy header view for UITableView and UICollectionView.
